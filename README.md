@@ -1,6 +1,6 @@
-### 👋 Hi, 
- #### Make yourself comfortable and look around
- #### Or, go to [website](https://poudel-bibek.github.io/)
+<h1> 👋 Hi, </h1>
+ <h3> Make yourself comfortable and look around </h3>
+ <h3> Or, go to [website](https://poudel-bibek.github.io/)</h3>
 
 <!-- **poudel-bibek/poudel-bibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
