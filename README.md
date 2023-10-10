@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hey, I'm Bibek Poudel!</h1>
+<h1 align="center">👋 Hey, I'm Bibek Poudel</h1>
 
 - 🎓 Ph.D. student at the [Fluidic City lab](), University of Tennessee, Knoxville.
-- 🚀 Researching novel applications of Reinforcement Learning in Transportation Autonomy with [Dr. Weizi Li](https://weizi-li.github.io).
-- ✒️ Occasionally write on [my blog](https://poudel-bibek.github.io/archives/).
+- 🚀 My research is at the intersection of Reinforcement Learning & Transportation Autonomy with [Dr. Weizi Li](https://weizi-li.github.io).
+- ✒️ I Occasionally write on [my blog](https://poudel-bibek.github.io/archives/).
 - 📄 Dive deeper into my journey: [My CV](https://nbviewer.org/github/poudel-bibek/poudel-bibek.github.io/blob/main/data/others/Bibek_Poudel.pdf).
 
 ---
-💬 **Connect with Me**
 
+💬 **Connect with Me**
 <p align="center">
   <a href="https://poudel-bibek.github.io/" style="margin-right: 20px;">
     <img src="https://icons8.com/icon/VJz2Ob51dvZJ/website" alt="Website">
@@ -22,5 +22,3 @@
     <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Google Scholar">
   </a>
 </p>
-
-
