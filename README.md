@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/poudel-bibek/poudel-bibek/blob/main/assets/header_image.png?raw=true" alt="Header Image">
+  <img src="https://poudel-bibek.github.io/static/hero.png" alt="Header Image">
 </div>
 
 <h1 align="center">👋 Hey, I'm Bibek Poudel!</h1>
@@ -11,8 +11,8 @@
 
 - 🎓 Currently a Ph.D. student at the Fluidic City lab, University of Tennessee, Knoxville.
 - 🚀 Researching novel applications of Reinforcement Learning in Transportation Autonomy with Dr. Weizi Li.
-- ✒️ Occasional writer on [my blog](https://poudel-bibek.github.io/blog).
-- 📄 Dive deeper into my journey: [My CV](https://poudel-bibek.github.io/resume.pdf).
+- ✒️ Occasionally write on [my blog](https://poudel-bibek.github.io/posts).
+- 📄 Dive deeper into my journey: [My CV](https://poudel-bibek.github.io/resume.pdf) (Make sure to update this link if it's different).
 
 ---
 
