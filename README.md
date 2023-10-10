@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Bibek Poudel</h1>
 <h3 align="center">Ph.D. student at the <a href="https://poudel-bibek.github.io/handler/">Fluidic City lab</a>, University of Tennessee, Knoxville.</h3>
 
-<p align="center"><strong>Make yourself comfortable and look around or checkout the links below to connect with Me</strong></p>
+**Make yourself comfortable and look around or checkout the links below to connect with Me**
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px;">
 <a href="https://poudel-bibek.github.io/"> 
