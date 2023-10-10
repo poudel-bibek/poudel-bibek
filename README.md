@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hey, I'm Bibek Poudel</h1>
 
 - Ph.D. student at the [Fluidic City lab](), University of Tennessee, Knoxville.
-- My research is at the intersection of Reinforcement Learning & Transportation Autonomy with [Dr. Weizi Li](https://weizi-li.github.io).
+- Make yourself comfortable and look around 💬 **Connect with Me**
 
 ---
-
-💬 **Connect with Me**
 
 <p align="center">
 <table border="0" cellspacing="0" cellpadding="0" align="center" style="border:none !important; border-collapse: collapse;">
