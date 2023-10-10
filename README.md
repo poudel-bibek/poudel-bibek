@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hey, I'm Bibek Poudel</h1>
+<h2 align="center">Ph.D. student at the [Fluidic City lab](), University of Tennessee, Knoxville.</h2>
+- 
 
-- Ph.D. student at the [Fluidic City lab](), University of Tennessee, Knoxville.
-- Make yourself comfortable and look around 💬 **Connect with Me**
+**Make yourself comfortable and look around or checkout the links below to connect with Me**
 
 ---
 
