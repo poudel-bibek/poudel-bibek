@@ -12,10 +12,7 @@
     <a href="https://www.linkedin.com/in/poudelbibek/" style="text-decoration: none;"> 
         <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
     </a>
-    <a href="https://scholar.google.com/citations?user=PzBn1jgAAAAJ" style="text-decoration: none;"> 
-        <img src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="Google Scholar"> 
-    </a>
     <a href="https://twitter.com/matrix_multiply" style="text-decoration: none;"> 
-        <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="X"> 
+        <img src="https://img.icons8.com/cute-clipart/64/twitter.png" alt="X"> 
     </a>
 </div>
