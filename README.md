@@ -38,16 +38,3 @@
 </p>
 
 ---
-
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <br>
-
-  ![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=poudel-bibek&show_icons=true&theme=radical)
-</details>
-
----
-
-<p align="center">
-  Made with ❤️ by Bibek Poudel
-</p>
