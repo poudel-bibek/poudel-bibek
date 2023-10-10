@@ -14,7 +14,4 @@
     <a href="https://www.linkedin.com/in/poudelbibek/" style="text-decoration: none;"> 
         <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
     </a>
-    <a href="https://scholar.google.com/citations?user=PzBn1jgAAAAJ" style="text-decoration: none;"> 
-        <img src="https://img.icons8.com/color/48/google-scholar--v3.png" alt="Google Scholar"> 
-    </a>
 </div>
