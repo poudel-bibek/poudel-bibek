@@ -11,17 +11,20 @@
 
 ---
 
-💬 **Quick Links**
-
-- 🚀 [Website](https://poudel-bibek.github.io/)
-- 📧 Reach me: bibek@email.com
-
----
+💬 **Connect with Me**
 
 <p align="center">
+  <a href="https://poudel-bibek.github.io/">
+    <img src="https://img.icons8.com/fluent/48/000000/globe.png" alt="Website">
+  </a>
+  <a href="mailto:bibek@email.com">
+    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/poudel-bibek/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
   </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID">
+    <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Google Scholar">
+  </a>
 </p>
 
----
