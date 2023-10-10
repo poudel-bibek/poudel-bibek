@@ -13,6 +13,6 @@
         <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/matrix_multiply" style="text-decoration: none;"> 
-        <img src="https://img.icons8.com/cute-clipart/64/twitter.png" alt="X"> 
+        <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="X"> 
     </a>
 </div>
