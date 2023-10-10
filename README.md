@@ -1,12 +1,6 @@
-<div align="center">
-  <img src="https://poudel-bibek.github.io/static/hero.png" alt="Header Image">
-</div>
-
 <h1 align="center">👋 Hey, I'm Bibek Poudel!</h1>
 <h3 align="center">Computer Science Ph.D. Student | Reinforcement Learning Enthusiast</h3>
-
 ---
-
 🔍 **About Me**
 
 - 🎓 Currently a Ph.D. student at the Fluidic City lab, University of Tennessee, Knoxville.
