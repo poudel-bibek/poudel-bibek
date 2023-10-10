@@ -8,7 +8,7 @@
 💬 **Connect with Me**
 
 <p align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://poudel-bibek.github.io/">
