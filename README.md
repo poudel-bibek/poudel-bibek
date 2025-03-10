@@ -36,6 +36,12 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/poudel-bibek/AI-Assignments">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=poudel-bibek&repo=AI-Assignments&theme=dark" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
-
